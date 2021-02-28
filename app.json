@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeFirebaseAuthBoilerplate",
+  "displayName": "ReactNativeFirebaseAuthBoilerplate",
+  "expo": {
+    "name": "ReactNativeFirebaseAuthBoilerplate",
+    "slug": "ReactNativeFirebaseAuthBoilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
